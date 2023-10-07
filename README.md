@@ -20,3 +20,4 @@ https://arxiv.org/abs/2304.08485
 https://llava-vl.github.io/
 
 ## Output
+![Screenshot 2023-10-07 115057](https://github.com/camenduru/LLaVA-colab/assets/54370274/fbf25306-7dcd-4100-b799-52343eec7bed)
