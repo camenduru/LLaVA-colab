@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | LLaVA_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | LLaVA_colab (Pro High-RAM 😐 22GB RAM 14GB VRAM)
 
 ## Main Repo
 https://github.com/haotian-liu/LLaVA
