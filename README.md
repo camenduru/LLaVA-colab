@@ -15,6 +15,7 @@
 
 After clicking the third cell, please wait for the model to load. <br />
 `~14.7GB` for `16bit` `~8GB` for `8bit` ~5 minutes <br />
+We will not receive any output because it will be running in another thread. <br />
 
 ![Screenshot 2023-10-09 210109a](https://github.com/camenduru/LLaVA-colab/assets/54370274/396b7a05-3660-4117-87bc-cc9384d627f2)
 
