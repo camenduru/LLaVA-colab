@@ -14,6 +14,7 @@
 ## Tutorial
 
 After clicking the third cell, please wait for the model to load. <br />
+`14.7GB` for `16bit` `8GB` for `8bit` <br />
 
 ![Screenshot 2023-10-09 210109](https://github.com/camenduru/LLaVA-colab/assets/54370274/aa3b6e37-0ee0-4207-a8b6-28e5b920b228)
 
