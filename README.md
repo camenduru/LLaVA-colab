@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_8bit_colab.ipynb) | 🌋 LLaVA_8bit_colab 7B (8bit)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | 🌋 LLaVA_colab 7B (Pro High-RAM 😐 22GB RAM 14GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | 🌋 LLaVA_colab 7B (16bit) (Pro High-RAM 😐 22GB RAM 14GB VRAM)
 
 ## Main Repo
 https://github.com/haotian-liu/LLaVA
