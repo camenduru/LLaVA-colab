@@ -11,6 +11,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_8bit_colab.ipynb) | 🌋 LLaVA_8bit_colab 7B (8bit)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | 🌋 LLaVA_colab 7B (16bit) (Pro High-RAM 😐 22GB RAM 14GB VRAM)
 
+## Tutorial
+
+After clicking the third cell, please wait for the model to load. <br />
+
+![Screenshot 2023-10-09 210109](https://github.com/camenduru/LLaVA-colab/assets/54370274/aa3b6e37-0ee0-4207-a8b6-28e5b920b228)
+
 ## Main Repo
 https://github.com/haotian-liu/LLaVA
 
