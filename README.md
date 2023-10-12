@@ -8,8 +8,9 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_8bit_colab.ipynb) | 🌋 LLaVA_8bit_colab 7B (8bit)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_colab.ipynb) | 🌋 LLaVA_colab 7B (16bit) (Pro High-RAM 😐 22GB RAM 14GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_13b_8bit_colab.ipynb) | 🌋 LLaVA_13b_8bit_colab 13B (8bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_7b_8bit_colab.ipynb) | 🌋 LLaVA_7b_8bit_colab 7B (8bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-colab/blob/main/LLaVA_7b_colab.ipynb) | 🌋 LLaVA_7b_colab 7B (16bit) (Pro High-RAM 😐 22GB RAM 14GB VRAM)
 
 ## ⚠ Tutorial
 
