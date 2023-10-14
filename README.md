@@ -33,3 +33,5 @@ https://llava-vl.github.io/
 
 ## Output
 ![Screenshot 2023-10-07 115057](https://github.com/camenduru/LLaVA-colab/assets/54370274/fbf25306-7dcd-4100-b799-52343eec7bed)
+
+![Screenshot 2023-10-14 164638](https://github.com/camenduru/LLaVA-colab/assets/54370274/c54880a0-0b6d-4916-aa48-e0387c7cdb6a)
